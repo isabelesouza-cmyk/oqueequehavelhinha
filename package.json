@@ -1,0 +1,19 @@
+{
+  "name": "oqueequehavelhinha",
+  "version": "1.0.0",
+  "description": "jogo da velha em javascript",
+  "main": "jogodavelha.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isabelesouza-cmyk/oqueequehavelhinha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isabelesouza-cmyk/oqueequehavelhinha/issues"
+  },
+  "homepage": "https://github.com/isabelesouza-cmyk/oqueequehavelhinha#readme"
+}
