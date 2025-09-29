@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/isabelesouza-cmyk/oqueequehavelhinha/issues"
   },
-  "homepage": "https://github.com/isabelesouza-cmyk/oqueequehavelhinha#readme"
+  "homepage": "https://github.com/isabelesouza-cmyk/oqueequehavelhinha#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
